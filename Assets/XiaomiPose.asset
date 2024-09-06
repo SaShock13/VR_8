@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e90911e410742a1498a167540c7865bf, type: 3}
-  m_Name: newPose
+  m_Name: XiaomiPose
   m_EditorClassIdentifier: 
   leftHand:
     inputSource: 1
@@ -21,8 +21,8 @@ MonoBehaviour:
     pinkyFingerMovementType: 0
     ignoreRootPoseData: 1
     ignoreWristPoseData: 1
-    position: {x: 0.03685605, y: 0.0008085333, z: 0}
-    rotation: {x: 0, y: 0, z: -0.6348699, w: -0.77261907}
+    position: {x: 0.000000059604645, y: 0, z: 0}
+    rotation: {x: 0, y: -0, z: -0, w: -1}
     bonePositions:
     - {x: -0, y: 0, z: 0}
     - {x: -0.034037687, y: 0.03650266, z: 0.16472164}
@@ -96,10 +96,10 @@ MonoBehaviour:
     pinkyFingerMovementType: 0
     ignoreRootPoseData: 1
     ignoreWristPoseData: 1
-    position: {x: -0.036856093, y: 0.00080852397, z: 0}
-    rotation: {x: -0, y: 0, z: -0.6348699, w: 0.77261907}
+    position: {x: 0, y: 0, z: 0}
+    rotation: {x: -0, y: -0, z: -0, w: 1}
     bonePositions:
-    - {x: -0, y: 0, z: 0}
+    - {x: -0, y: 0, z: 0.1047}
     - {x: -0.034037687, y: 0.03650266, z: 0.16472164}
     - {x: -0.012083233, y: 0.028070247, z: 0.025049694}
     - {x: 0.040405963, y: -0.000000051561553, z: 0.000000045447194}
@@ -131,8 +131,8 @@ MonoBehaviour:
     - {x: -0.038340144, y: -0.09098663, z: 0.08257892}
     - {x: -0.031805996, y: -0.08721431, z: 0.12101539}
     boneRotations:
-    - {x: -6.123234e-17, y: 1, z: 6.123234e-17, w: -0.00000004371139}
-    - {x: -0.078608155, y: -0.92027926, z: 0.3792963, w: -0.055146642}
+    - {x: 0, y: 0.7420344, z: -0, w: -0.6703618}
+    - {x: 0.7388963, y: 0.6659173, z: -0.088038445, w: 0.05325065}
     - {x: -0.46411175, y: -0.623374, z: 0.2721063, w: 0.5674181}
     - {x: 0.08293856, y: -0.019454371, z: -0.055129882, w: 0.9948384}
     - {x: -0.0032133153, y: -0.021866836, z: 0.22201493, w: 0.9747928}

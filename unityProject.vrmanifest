@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vr_8_steamvr_birp.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Skillbox\\Unity\\Projects\\VR_Module_8\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR_8_SteamVR_BIRP [Testing]"
+        }
+      }
+    }
+  ]
+}
